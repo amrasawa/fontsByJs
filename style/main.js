@@ -4,6 +4,8 @@ console.log(maximizeSizeBtn);
 console.log(minimizeSizeBtn);
 function maximize(){
     document.querySelector("body").classList.add("size");
+    document.querySelector("body").classList.remove("original");
+
 }
 
 function minimize(){

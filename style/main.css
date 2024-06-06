@@ -1,0 +1,13 @@
+.size{
+    background-color: aqua;
+    font-size: 40px;
+    transition: 0.5s;
+}
+.original{
+    font-size: medium;
+    transition:.5s;
+    background-color: thistle;
+}
+button{
+    cursor: pointer;
+}
